@@ -23,7 +23,7 @@
  <h2>Some of my technologies</h2>
   
  ![Badge](https://img.shields.io/static/v1?label=VSCode&message=Editor&color=blue&style=for-the-badge&logo=visual-studio-code)
-![Badge](https://img.shields.io/static/v1?label=Linux&message=Operacional-System&color=green&style=for-the-badge&logo=linux)
+![Badge](https://img.shields.io/static/v1?label=Linux&message=Operating-System&color=green&style=for-the-badge&logo=linux)
  ![Badge](https://img.shields.io/static/v1?label=-&message=Javascript&color=black&style=for-the-badge&logo=javascript)
  ![Badge](https://img.shields.io/static/v1?label=-&message=C+Plus+Plus&color=blue&style=for-the-badge&logo=c)
  ![Badge](https://img.shields.io/static/v1?label=And&message=others&color=red&style=for-the-badge)
