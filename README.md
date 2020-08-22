@@ -1,9 +1,8 @@
 ### Hi there I'm Matheus de Oliveira (OliverXS)
   
 <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg" style="max-width:100%;"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin" rel="nofollow"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg" style="max-width:100%;"></a>
-    <a href="matheusdeoliveiraxs@outlook.com" alt="Contact me"><img src=https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BnlwO%2B4UHTBGL29lfEtyJTg%3D%3D" style="max-width:100%;"></a>
+    <a href="www.linkedin.com/in/matheusxs" alt="Linkedin" rel="follow"><img src="https://github.com/OliverXs/OliverXs/blob/master/icons/linkedin(1).svg" width="50px"></a>
+    <a href="matheusdeoliveiraxs@outlook.com" alt="Contact me"><img src="https://github.com/OliverXs/OliverXs/blob/master/icons/perspectiva.svg" width="50px"></a>
  </p>
 
 
