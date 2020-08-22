@@ -5,7 +5,7 @@
 <p align="center">
     
   <a href="https://www.linkedin.com/in/matheusxs" alt="Linkedin" rel="follow"><img src="https://github.com/OliverXs/OliverXs/blob/master/icons/linkedin(1).svg" width="50px"></a>
-  <a href="mailto:matheusdeoliveiraxs@outlook.com?subject = Feedback&body = Message"" alt="Contact me"><img src="https://github.com/OliverXs/OliverXs/blob/master/icons/perspectiva.svg" width="50px"></a>
+  <a href="mailto:matheusdeoliveiraxs@outlook.com?subject = Feedback&body = Message" alt="Contact me"><img src="https://github.com/OliverXs/OliverXs/blob/master/icons/perspectiva.svg" width="50px"></a>
  
  </p>
 
