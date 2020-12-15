@@ -11,12 +11,12 @@
 
 ----
 
-- 🔭 I’m currently working on an e-commerce and Operacional System for my hardware.
-- 🌱 I’m currently learning C++ and Next.js
-- 👯 I’m looking to collaborate on an deep learning project
-- 💬 Ask me about anything
-- 😄 Pronouns: He/His/Him...
-- ⚡ Fun fact: Well, Linux is better than... (you  know what I mean)(but not for games, no yet :c )
+- I’m currently working on an e-commerce and in an operating system for the RISCV architecture.
+- I’m currently learning Flutter and Tensorflow.
+- I’m looking to collaborate on an deep learning project.
+- Ask me about anything
+- Pronouns: He/His/Him...
+- Fun fact: Well, Linux is better than... (you  know what I mean)(but not for games, no yet :c )
 
 -----
 
